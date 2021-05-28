@@ -7,4 +7,4 @@ To find the steps for submiting the project, please look into my WIKI page https
 # Entity Relationship Mapping
 
 
-![image](https://user-images.githubusercontent.com/43011442/119961077-46a9e780-bfc3-11eb-91b7-bb1e04e78944.png)
+![image](https://user-images.githubusercontent.com/43011442/119964212-96d67900-bfc6-11eb-86a0-41846c83ac13.png)
